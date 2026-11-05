@@ -2,7 +2,7 @@
 
 Source for the website of the **Vertical Farming Student Organization at UC San Diego (VFSO)**, an interdisciplinary, student-led organization dedicated to the research, design, construction, and operation of a vertical farming system on campus.
 
-**Live site:** https://site-tau-blue-79.vercel.app
+**Live site:** https://vfsoucsandiego.vercel.app
 
 ## Get involved
 
