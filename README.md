@@ -30,7 +30,12 @@ Then open http://localhost:4173.
 
 ## Deploy
 
-The site is deployed on [Vercel](https://vercel.com) from the `site/` directory:
+The site is deployed on [Vercel](https://vercel.com), which is connected to this repository with `site/` as the project's root directory:
+
+- Every push to `main` deploys to production automatically.
+- Pushes to other branches and pull requests get their own preview URLs.
+
+To deploy manually instead:
 
 ```bash
 cd site
